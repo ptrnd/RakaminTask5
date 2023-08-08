@@ -18,4 +18,4 @@ Link: [Dashboard Laporan Penjualan Obat](https://lookerstudio.google.com/reporti
 
 ## Resources
 
-you can find datasets I used in the folder called "dataset" and datamart design in "datamart query design folder".
+You can find the datasets I used in the folder called "dataset" and datamart design in "datamart query design folder".
